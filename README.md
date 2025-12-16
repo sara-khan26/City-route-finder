@@ -1,4 +1,4 @@
-# 🚦 Indore Route Pathfinder
+# 🚦 City Route Pathfinder
 
 <div align="center">
 
@@ -7,8 +7,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **A simple web application to plan routes between stations in Indore using Dijkstra's Algorithm**
-
-[🚀 Live Demo](https://indore-route.vercel.app)
 
 </div>
 
@@ -36,7 +34,7 @@
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/harshitsingh4321/indore-route-planner.git
+git clone https://github.com/sara-khan-26/indore-route-planner.git
 cd indore-route-planner
 
 # Backend
@@ -113,13 +111,6 @@ Uses **Dijkstra's Algorithm** to find:
 
 ---
 
-## 🚀 Deployment
-
-- **Frontend**: Deploy to Vercel : https://indore-metro.vercel.app
-- **Backend**: Deploy to Render : https://indore-metro.onrender.com
-- Set environment variables in deployment platforms
-
----
 
 ## 🤝 Contributing
 
